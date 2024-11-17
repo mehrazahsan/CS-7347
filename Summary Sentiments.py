@@ -5,7 +5,7 @@
 
 import random,json,torch
 from datasets import load_dataset
-from summarizer import Summarizer
+
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -14,8 +14,12 @@ dataset = load_dataset("cnn_dailymail", "3.0.0")
 total_articles=dataset['train']
 articles=random.sample(list(total_articles), 100)
 
+model=torch.hub()
 
-model=Summarizer()
+
+
+
+
 summaries = []
 
 for article in articles:
