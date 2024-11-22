@@ -1,9 +1,9 @@
 import json, torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import pandas as pd
 
-with open('summaries.json', 'r') as file:
-    extractive_summaries = json.load(file)
 
+total_summaries = pd.read_csv('summarization_model_results.csv')
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 pretrained_model = "cardiffnlp/twitter-roberta-base-sentiment"
@@ -37,13 +37,21 @@ def analyze_sentiment(summary):
     }
 
 results = []
-for article in extractive_summaries:
-    summary = article.get('summary')
-    if summary:
-        result = analyze_sentiment(summary)
+for article in total_summaries.iterrows():
+    extractive_summary = total_summaries.at[article[0],'extractive_summary']
+    abstractive_summary = total_summaries.at[article[0],'abstractive_summary']
+    if extractive_summary:
+        result = analyze_sentiment(extractive_summary)
         results.append({
-            "summary": summary,
-            "sentiment": result
+            "extractive_summary": extractive_summary,
+            "extractive_sentiment": result
+        })
+
+    if abstractive_summary:
+        result = analyze_sentiment(abstractive_summary)
+        results.append({
+            "abstractive_summary": abstractive_summary,
+            "abstractive_sentiment": result
         })
 
 # Save results to a new JSON file
