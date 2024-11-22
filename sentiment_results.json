@@ -22,6 +22,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.45811906456947327,
+                "Neutral": 0.49435552954673767,
+                "Positive": 0.04752548411488533
+            }
+        }
+    },
+    {
         "extractive_summary": "The world's oldest primate - dating back 55 million years and small enough to fit in the palm of a hand - has been discovered by scientists. Named Archicebus achilles and smaller. than the pygmy mouse lemur, the tiniest living primate, it was unearthed. near the Yangtze River in central China. Even though it weighed under an ounce, the minute animal provides a vital missing link in human evolution. Its almost complete skeleton marks a pivotal",
         "extractive_sentiment": {
             "label": "Positive",
@@ -40,6 +50,16 @@
                 "Negative": 0.0035367514938116074,
                 "Neutral": 0.3179800510406494,
                 "Positive": 0.6784831285476685
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.07377884536981583,
+                "Neutral": 0.7329278588294983,
+                "Positive": 0.1932932734489441
             }
         }
     },
@@ -66,6 +86,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8151810765266418,
+                "Neutral": 0.1780620664358139,
+                "Positive": 0.006756822112947702
+            }
+        }
+    },
+    {
         "extractive_summary": "By. John Greechan. Amateur champion Bradley Neil has already achieved one of his Open ambitions here this week \u2013 meeting 14-time major winner Tiger Woods. Neil, who revealed that his brother had once paid money to get the American superstar's autograph, Tweeted a picture with Woods on Wednesday, adding: 'My week has definitely been made! Meeting TIGER WOODS!!! Possibly getting a game at Augusta as well! #gobsmacked. Happy days: Amateur champion Bradley",
         "extractive_sentiment": {
             "label": "Positive",
@@ -84,6 +114,16 @@
                 "Negative": 0.0487462654709816,
                 "Neutral": 0.7774863243103027,
                 "Positive": 0.17376740276813507
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.028465531766414642,
+                "Neutral": 0.7141192555427551,
+                "Positive": 0.257415235042572
             }
         }
     },
@@ -110,6 +150,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.07548927515745163,
+                "Neutral": 0.7465734481811523,
+                "Positive": 0.177937313914299
+            }
+        }
+    },
+    {
         "extractive_summary": "A cannabis-smoking teenage driver has been jailed for 20 months for killing a schoolgirl friend, 15, and a 55-year-old as he tried to overtake on a dark bend. Daniel Watts, 19, of Great Yarmouth in Norfolk, was sentenced to 20 months in prison yesterday for killing passenger Shannley Leaver, 15, and driver Ronald Gates, 55, in the head-on crash. Now, the father of the 15-year-old girl has urged",
         "extractive_sentiment": {
             "label": "Negative",
@@ -128,6 +178,16 @@
                 "Negative": 0.6106433272361755,
                 "Neutral": 0.36990469694137573,
                 "Positive": 0.019451957195997238
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8733543753623962,
+                "Neutral": 0.11949953436851501,
+                "Positive": 0.00714618107303977
             }
         }
     },
@@ -154,6 +214,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.548582911491394,
+                "Neutral": 0.4112638235092163,
+                "Positive": 0.04015330597758293
+            }
+        }
+    },
+    {
         "extractive_summary": "Ringleader: Jordan Horner, known as Jamal Uddin, pictured arriving at court today where he was one of three men given Asbos banning them from promoting Sharia law for five years. Three religious vigilantes who terrorised innocent members of the public as the self-styled \u2018Muslim Patrol\u2019 have been banned from promoting Sharia Law in Britain. Jordan Horner, 20, Royal Barnes, 23, and Ricardo MacFarlane, 26, were jailed for a total",
         "extractive_sentiment": {
             "label": "Negative",
@@ -172,6 +242,16 @@
                 "Negative": 0.8086564540863037,
                 "Neutral": 0.18546037375926971,
                 "Positive": 0.0058831144124269485
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7599273324012756,
+                "Neutral": 0.23353803157806396,
+                "Positive": 0.006534609477967024
             }
         }
     },
@@ -198,6 +278,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7066549062728882,
+                "Neutral": 0.2829076051712036,
+                "Positive": 0.01043748389929533
+            }
+        }
+    },
+    {
         "extractive_summary": "London (CNN) -- The bill for staging the 2012 London Olympics and Paralympics is set to rise by nearly 20% to \u00a311 billion ($17.2 billion) a UK government committee has warned. The \u00a39.3 billion ($14.5 billion) of public money set aside for funding the Games is \"close to being used up\" according to a report published Friday by the British Parliament's public accounts committee. \"We are concerned about whether the running of the Games will",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -216,6 +306,16 @@
                 "Negative": 0.24507366120815277,
                 "Neutral": 0.6824347376823425,
                 "Positive": 0.07249155640602112
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5069299340248108,
+                "Neutral": 0.4498246908187866,
+                "Positive": 0.043245330452919006
             }
         }
     },
@@ -242,6 +342,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.061884526163339615,
+                "Neutral": 0.6958408951759338,
+                "Positive": 0.24227459728717804
+            }
+        }
+    },
+    {
         "extractive_summary": "A World War II combat veteran from upstate New York is returning to the scene of a bloody Pacific island battle this week as an 'army of one.' 90-year-old Don Fida of Syracuse departed Monday morning for the Marshall Islands, where U.S. forces landed on the Japanese-held atoll of Kwajalein on January 31, 1944, according to\u00a0The Post-Standard of Syracuse. Fida was a member of the U.S. Army's",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -260,6 +370,16 @@
                 "Negative": 0.11691228300333023,
                 "Neutral": 0.8350619077682495,
                 "Positive": 0.04802578687667847
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.01559512596577406,
+                "Neutral": 0.6789953112602234,
+                "Positive": 0.30540958046913147
             }
         }
     },
@@ -286,6 +406,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.10335549712181091,
+                "Neutral": 0.8238906264305115,
+                "Positive": 0.07275387644767761
+            }
+        }
+    },
+    {
         "extractive_summary": "Retired Army Gen. David Petraeus resigned from his post as CIA director last week after an FBI investigation revealed he had an extramarital affair. The investigation also prompted questions about whether his paramour had inappropriate access to classified information. The scandal also has sparked an investigation into whether Marine Corps Gen. John Allen, the top U.S. commander in Afghanistan, sent inappropriate messages to a different woman, leading President Obama to put Allen's nomination to become NATO's supreme allied chief on hold",
         "extractive_sentiment": {
             "label": "Negative",
@@ -304,6 +434,16 @@
                 "Negative": 0.6228628158569336,
                 "Neutral": 0.35860222578048706,
                 "Positive": 0.018534917384386063
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.4533936679363251,
+                "Neutral": 0.5308402180671692,
+                "Positive": 0.015766071155667305
             }
         }
     },
@@ -330,6 +470,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.09889562427997589,
+                "Neutral": 0.6033784747123718,
+                "Positive": 0.2977258861064911
+            }
+        }
+    },
+    {
         "extractive_summary": "Forget give the dog a bone. This canine's happiest with his pony sidekick in tow. Dally, a six-year-old Jack Russell Terrier from Washington State, and his pal Spanky, a seven-year-old miniature horse,\u00a0were rescued by horse trainer Francesca Carson and have worked together since. The dynamic duo appear to be inseparable, despite their difference in size. Video footage shows Dally confidently riding on Spanky's back, performing tricks with",
         "extractive_sentiment": {
             "label": "Positive",
@@ -348,6 +498,16 @@
                 "Negative": 0.0018864856101572514,
                 "Neutral": 0.02200467139482498,
                 "Positive": 0.9761088490486145
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.0047333636321127415,
+                "Neutral": 0.6250597238540649,
+                "Positive": 0.3702068626880646
             }
         }
     },
@@ -374,6 +534,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5536447167396545,
+                "Neutral": 0.42962321639060974,
+                "Positive": 0.016732100397348404
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- Former Italian international striker Christian Vieri has left Serie A side Atalanta by mutual consent, blaming constant jeering from the club's fans for his decision to leave. Veteran striker Vieri scored twice in nine appearances for Atalanta this season. The 35-year-old, back at his third stint with the Bergamo-based side, has failed to make an impression this season, and has become the focus of fans' frustrations after scoring just two goals in",
         "extractive_sentiment": {
             "label": "Negative",
@@ -392,6 +562,16 @@
                 "Negative": 0.004270615056157112,
                 "Neutral": 0.12988635897636414,
                 "Positive": 0.8658430576324463
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5067033171653748,
+                "Neutral": 0.4585341513156891,
+                "Positive": 0.034762535244226456
             }
         }
     },
@@ -418,6 +598,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5455152988433838,
+                "Neutral": 0.4427078664302826,
+                "Positive": 0.01177685521543026
+            }
+        }
+    },
+    {
         "extractive_summary": "An airport security worker has been suspended after she failed to spot a fake bomb designed to look like explosives as it passed through the X-ray machine. The guard did not detect the dummy explosive as it passed through Manchester Airport\u2019s \u2018air side\u2019 meaning it could have been taken on board a flight by a passenger. It is believed that the woman missed the fake bomb because she was looking at her work rota at the time rather than watching the screen. Didn't detect",
         "extractive_sentiment": {
             "label": "Negative",
@@ -436,6 +626,16 @@
                 "Negative": 0.8674675226211548,
                 "Neutral": 0.12480385601520538,
                 "Positive": 0.00772859388962388
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5901892185211182,
+                "Neutral": 0.3890523612499237,
+                "Positive": 0.02075844816863537
             }
         }
     },
@@ -462,6 +662,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8757683038711548,
+                "Neutral": 0.11819755285978317,
+                "Positive": 0.00603424571454525
+            }
+        }
+    },
+    {
         "extractive_summary": "Pool parties, police line-ups and working behind the bar are some behind-the-scene scenarios graphic designers from around the world have dreamed up as world leaders caught up at the G20 Summit. While Australians held its breath to see if Prime Minister Tony Abbott would follow through with his'shirtfront' threats to Russian President Vladimir Putin, designers were asked by crowdsourcing website DesignCrowd to create graphics that met the brief of 'What really goes on at the G20 Summit?' The",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -480,6 +690,16 @@
                 "Negative": 0.007046137936413288,
                 "Neutral": 0.2565896511077881,
                 "Positive": 0.7363641858100891
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.01856745034456253,
+                "Neutral": 0.6308876872062683,
+                "Positive": 0.35054489970207214
             }
         }
     },
@@ -506,6 +726,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6528757214546204,
+                "Neutral": 0.30981719493865967,
+                "Positive": 0.03730713576078415
+            }
+        }
+    },
+    {
         "extractive_summary": "(RollingStone.com) -- Patti Smith won the 2010 National Book Award in the nonfiction category for her memoir \"Just Kids.\" \"I dreamed of having a book of my own, of writing one that I could put on a shelf,\" the singer said when accepting the award in New York Wednesday night. \"Please, no matter how we advance technologically, please don't abandon the book. There is nothing in our material world more beautiful than the book.\" The Rolling Stone interview",
         "extractive_sentiment": {
             "label": "Positive",
@@ -524,6 +754,16 @@
                 "Negative": 0.013597381301224232,
                 "Neutral": 0.6637362837791443,
                 "Positive": 0.32266631722450256
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.017094355076551437,
+                "Neutral": 0.7863267064094543,
+                "Positive": 0.19657893478870392
             }
         }
     },
@@ -550,6 +790,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.27228283882141113,
+                "Neutral": 0.6343078017234802,
+                "Positive": 0.09340932965278625
+            }
+        }
+    },
+    {
         "extractive_summary": "ALBUQUERQUE, New Mexico (CNN) -- Sen. John McCain on Monday defended his opposition to a Democratic bill that would expand education benefits for veterans, saying it would hurt the military that he hopes to lead. Sen. John McCain is co-sponsoring alternative legislation to the GI Bill that the Senate passed last week. The new GI Bill being debated in Congress would expand education benefits for veterans who served at least three years in the military after the September 11, 2001,",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -568,6 +818,16 @@
                 "Negative": 0.043939609080553055,
                 "Neutral": 0.6531364321708679,
                 "Positive": 0.3029239773750305
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.3993399441242218,
+                "Neutral": 0.5682819485664368,
+                "Positive": 0.03237807750701904
             }
         }
     },
@@ -594,6 +854,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.06536974757909775,
+                "Neutral": 0.8014758825302124,
+                "Positive": 0.13315439224243164
+            }
+        }
+    },
+    {
         "extractive_summary": "George Osborne today tore into the Lib Dems, accusing his coalition partners of risking 'chaos' in the economy. The Chancellor called on the Lib Dems to lay out plans for 'hefty' income tax rises after the election to deal with the deficit. But Deputy Prime Minister Nick Clegg hit back, and said the Tories had to 'come clean' about closing colleges and libraries, and cutting police budgets to make their figures add up. Scroll down for video. Chancellor George Osborne warned the",
         "extractive_sentiment": {
             "label": "Negative",
@@ -612,6 +882,16 @@
                 "Negative": 0.0035039104986935854,
                 "Neutral": 0.036498695611953735,
                 "Positive": 0.9599974155426025
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.4707123935222626,
+                "Neutral": 0.4647120237350464,
+                "Positive": 0.06457555294036865
             }
         }
     },
@@ -638,6 +918,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.01198811735957861,
+                "Neutral": 0.2880222201347351,
+                "Positive": 0.6999896764755249
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN Student News) -- October 10, 2013. CNN Student News goes global to start Thursday's show, covering stories from Egypt, Syria and Brazil. Then, we discuss President Obama's Federal Reserve chair nominee, who would be the first woman to lead the country's central bank if she's confirmed. Plus, we examine the possible ripple effects of the U.S. government hitting its debt ceiling. On this page you will find today's show Transcript, the Daily Curriculum,",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -656,6 +946,16 @@
                 "Negative": 0.22412967681884766,
                 "Neutral": 0.678297758102417,
                 "Positive": 0.09757257252931595
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.051139310002326965,
+                "Neutral": 0.782707691192627,
+                "Positive": 0.1661529690027237
             }
         }
     },
@@ -682,6 +982,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.374833881855011,
+                "Neutral": 0.5826624035835266,
+                "Positive": 0.04250369593501091
+            }
+        }
+    },
+    {
         "extractive_summary": "A girl aged nine has become the youngest victim of the NekNomination drinking craze. Rhiannon Scully was hospitalised after downing a cocktail of vodka and whisky, egged on by her friends who had seen similar stunts on Facebook. She was found riding home \u2018all over the place\u2019 on her electric scooter and still in her school uniform by her horrified mother, who picked her up and called an ambulance. Rhiannon later had to have her stomach pumped and",
         "extractive_sentiment": {
             "label": "Negative",
@@ -700,6 +1010,16 @@
                 "Negative": 0.7705051898956299,
                 "Neutral": 0.21805033087730408,
                 "Positive": 0.011444523930549622
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5852251648902893,
+                "Neutral": 0.3997805714607239,
+                "Positive": 0.014994233846664429
             }
         }
     },
@@ -726,6 +1046,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.19378475844860077,
+                "Neutral": 0.729846179485321,
+                "Positive": 0.07636913657188416
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- World number one Rafael Nadal continues to prove unbeatable on his favorite clay-court surface, as he won his fifth Barcelona Open title in a row with a straight sets victory over fellow-Spaniard David Ferrer on Sunday. Rafael Nadal lifts the massive Barcelona Open trophy for the fifth year in a row after his win over David Ferrer. The 22-year-old Nadal, who last week secured his fifth Monte Carlo title in succession, repeated that",
         "extractive_sentiment": {
             "label": "Positive",
@@ -744,6 +1074,16 @@
                 "Negative": 0.002403861843049526,
                 "Neutral": 0.19864603877067566,
                 "Positive": 0.7989501357078552
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.007948772050440311,
+                "Neutral": 0.6756588220596313,
+                "Positive": 0.3163923919200897
             }
         }
     },
@@ -770,6 +1110,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.0017863678513094783,
+                "Neutral": 0.13010503351688385,
+                "Positive": 0.8681085705757141
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- U.S. Secretary of State John Kerry will not use the term war to describe Washington's impending military action against the jihadist group ISIS in Syria and Iraq, but others in the Obama administration aren't shying away from the word. What's in a name? On Wednesday night, the war-stopping, Nobel Peace Prize-winning President used a nationally televised address to announce a plan to \"dismantle and ultimately destroy\" the Sunni jihadists who have taunted",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -788,6 +1138,16 @@
                 "Negative": 0.12440001219511032,
                 "Neutral": 0.8099052309989929,
                 "Positive": 0.06569472700357437
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.3623608648777008,
+                "Neutral": 0.6001893877983093,
+                "Positive": 0.03744981810450554
             }
         }
     },
@@ -814,6 +1174,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6245443224906921,
+                "Neutral": 0.35766667127609253,
+                "Positive": 0.017788998782634735
+            }
+        }
+    },
+    {
         "extractive_summary": "Saturn and its moons may be nearly a billion miles away, but scientists now say they can pinpoint their location to within just two miles (4 km). The discovery was made using ten antennae spread over an area from Hawaii to the Virgin Islands. The calculation improves astronomers' knowledge of Saturn's orbit and could allow Nasa to better navigate its probes through space. Scroll down for video. Saturn and its moons may be nearly a billion miles away, but scientists now say they can pinpoint their location",
         "extractive_sentiment": {
             "label": "Positive",
@@ -832,6 +1202,16 @@
                 "Negative": 0.0015050913207232952,
                 "Neutral": 0.0945766493678093,
                 "Positive": 0.9039182066917419
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.01024713460355997,
+                "Neutral": 0.19371572136878967,
+                "Positive": 0.7960371971130371
             }
         }
     },
@@ -858,6 +1238,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.44203245639801025,
+                "Neutral": 0.5177804827690125,
+                "Positive": 0.04018710181117058
+            }
+        }
+    },
+    {
         "extractive_summary": "Marie McKinlay, 40, pictured arriving at court, is alleged to have run a high-class escort agency called Allure. A brothel madam used the profits from her \u00a3500,000-a-year business to put her two children through private school, a court heard yesterday. Marie McKinlay allegedly employed 25 high-class prostitutes able to offer clients everything from \u2018girlfriend experience to porn star experience\u2019. They charged as much as \u00a3300 an hour and \u00a31",
         "extractive_sentiment": {
             "label": "Negative",
@@ -876,6 +1266,16 @@
                 "Negative": 0.43836838006973267,
                 "Neutral": 0.5311555862426758,
                 "Positive": 0.030476007610559464
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.1582580953836441,
+                "Neutral": 0.7626048922538757,
+                "Positive": 0.07913696765899658
             }
         }
     },
@@ -902,6 +1302,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5277770757675171,
+                "Neutral": 0.4177455008029938,
+                "Positive": 0.054477375000715256
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Associated Press. and Zoe Szathmary for MailOnline. The Washington Post is ending 80 years of being led by the Graham family with the departure of Publisher Katharine Weymouth. The newspaper said Tuesday that Weymouth, the granddaughter of longtime Washington Post Co. CEO Katharine Graham, is stepping down. She will be replaced by Frederick Ryan, who previously ran the political website and newspaper Politico. Weymouth announced Tuesday that she will leave the Post after serving for 17",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -920,6 +1330,16 @@
                 "Negative": 0.002291558776050806,
                 "Neutral": 0.091178297996521,
                 "Positive": 0.9065300822257996
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.10880743712186813,
+                "Neutral": 0.7987092137336731,
+                "Positive": 0.09248331934213638
             }
         }
     },
@@ -946,6 +1366,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.011409139260649681,
+                "Neutral": 0.6310828328132629,
+                "Positive": 0.35750800371170044
+            }
+        }
+    },
+    {
         "extractive_summary": "By. David Kent for MailOnline. It is the old dilemma: what do you do when there's a big football match on but you've been invited to a wedding at the same time? Sneak a radio into the service to keep up with the action, or behave with dignity and enjoy the couple's big day? Were you invited to this Kenyan couple's wedding, however, one suspects you would not have to make the tricky decision. The bride and groom decided to theme their wedding around",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -964,6 +1394,16 @@
                 "Negative": 0.125225231051445,
                 "Neutral": 0.6003255248069763,
                 "Positive": 0.2744492292404175
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.013394145295023918,
+                "Neutral": 0.28278976678848267,
+                "Positive": 0.7038161754608154
             }
         }
     },
@@ -990,6 +1430,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5170553922653198,
+                "Neutral": 0.4656478762626648,
+                "Positive": 0.01729671284556389
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Rosie Taylor. PUBLISHED:. 16:25 EST, 2 August 2013. |. UPDATED:. 02:10 EST, 3 August 2013. With its girlish gossiping about handsome men and parties, it is a classic example of an exchange between young women. The writer talks of her heart \u2018fluttering\u2019 at the sight of a \u2018devastatingly attractive young giant\u2019 of an officer, and her embarrassment at busyb",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1008,6 +1458,16 @@
                 "Negative": 0.004582731518894434,
                 "Neutral": 0.3497070074081421,
                 "Positive": 0.645710289478302
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.004588444717228413,
+                "Neutral": 0.2530210614204407,
+                "Positive": 0.742390513420105
             }
         }
     },
@@ -1034,6 +1494,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.03759360685944557,
+                "Neutral": 0.7676182389259338,
+                "Positive": 0.19478817284107208
+            }
+        }
+    },
+    {
         "extractive_summary": "Samoa Air has started to charge passengers for a plane seat according to how much they weigh. Under the new model passengers pay a fixed price per kilogram for the ticket price, which varies depending on the route length. Head of Samoa Air Chris Langton told Australia's ABC Radio that it was 'the fairest way of travelling.' New plans: Samoa Air has started to charge passengers according to how much they weigh. Under the pay by weight system passengers input their weight into the. online",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1052,6 +1522,16 @@
                 "Negative": 0.08265424519777298,
                 "Neutral": 0.453678697347641,
                 "Positive": 0.4636671245098114
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.10312899202108383,
+                "Neutral": 0.7287634611129761,
+                "Positive": 0.16810759902000427
             }
         }
     },
@@ -1078,6 +1558,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5811101794242859,
+                "Neutral": 0.3925091624259949,
+                "Positive": 0.02638062834739685
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- Cristiano Ronaldo won his 99th international cap for Portugal -- but the Real Madrid superstar could not inspire his country as it slumped to a World Cup qualifying defeat in Russia. Only Luis Figo (127) and Fernando Couto (110) have made more appearances for Portugal than Ronaldo, who will hope to reach his century against Northern Ireland on Tuesday. Ronaldo had scored eight goals in his previous three games for Real Madrid, including a classy double against Barcelona in last Sunday's",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1096,6 +1586,16 @@
                 "Negative": 0.15439677238464355,
                 "Neutral": 0.670763373374939,
                 "Positive": 0.1748398244380951
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.2433270961046219,
+                "Neutral": 0.5676441192626953,
+                "Positive": 0.1890287548303604
             }
         }
     },
@@ -1122,6 +1622,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.3929350972175598,
+                "Neutral": 0.5905860662460327,
+                "Positive": 0.01647884212434292
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Associated Press. A federal appeals court has upheld a lower court\u2019s ruling that a disgraced Detroit judge cannot be sued by a defendant in a child support case he presided over. The decision dated Monday by the Sixth Circuit Court of Appeals in Cincinnati cites existing U.S. Supreme Court law that Wade McCree is immune from lawsuits stemming from judicial actions. Robert King had claimed that the former Wayne County Circuit Court judge violated his civil rights. Shielded: A federal appeals court",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1140,6 +1650,16 @@
                 "Negative": 0.33773285150527954,
                 "Neutral": 0.6076884269714355,
                 "Positive": 0.054578687995672226
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6751350164413452,
+                "Neutral": 0.31081047654151917,
+                "Positive": 0.014054498635232449
             }
         }
     },
@@ -1166,6 +1686,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6955533027648926,
+                "Neutral": 0.28577685356140137,
+                "Positive": 0.01866978593170643
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- All the talk this season has been that Robin van Persie is the difference between winning the English Premier League title, or not. Roberto Mancini wanted to sign him after his Manchester City side won a first championship in 44 years on the final day of the 2011-12 campaign. Much to his chagrin, even the deep pockets of the club's Abu Dhabi owners could not tempt the Dutchman. Even worse for the Italian, and for Arsenal fans hoping he",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1184,6 +1714,16 @@
                 "Negative": 0.34421712160110474,
                 "Neutral": 0.5617669820785522,
                 "Positive": 0.0940159261226654
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.010114382021129131,
+                "Neutral": 0.6051998734474182,
+                "Positive": 0.384685754776001
             }
         }
     },
@@ -1210,6 +1750,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.011214250698685646,
+                "Neutral": 0.6778978705406189,
+                "Positive": 0.3108878433704376
+            }
+        }
+    },
+    {
         "extractive_summary": "After the devastating loss of her husband, lonely millionairess Christine Ince thought she had found love again with a younger Gambian man. Aware of the potential pitfalls, the 59-year-old widow spent a year getting to know Mustapha Jabbai, 36, before agreeing to marry him. The mother of three believed his intentions were honourable because he had a permanent job in the UK and had never asked her about her wealth. Better days: Lonely millionairess Christine",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1228,6 +1778,16 @@
                 "Negative": 0.5791566371917725,
                 "Neutral": 0.38330191373825073,
                 "Positive": 0.037541463971138
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.15717895328998566,
+                "Neutral": 0.7114336490631104,
+                "Positive": 0.13138742744922638
             }
         }
     },
@@ -1254,6 +1814,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.03331136703491211,
+                "Neutral": 0.40409213304519653,
+                "Positive": 0.5625964999198914
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Jamie Redknapp. PUBLISHED:. 17:41 EST, 2 February 2014. |. UPDATED:. 18:26 EST, 2 February 2014. It might not be the kind of race that United and Liverpool fans are used to, but the battle for fourth spot and Champions League football could come down to the two great rivals. Everton and Tottenham fans might disagree but, despite their ongoing struggles, sooner or later United will go on a run. Seven points",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1272,6 +1842,16 @@
                 "Negative": 0.014751634560525417,
                 "Neutral": 0.20671354234218597,
                 "Positive": 0.7785347700119019
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.0027509047649800777,
+                "Neutral": 0.06646931916475296,
+                "Positive": 0.930779755115509
             }
         }
     },
@@ -1298,6 +1878,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5589575171470642,
+                "Neutral": 0.4209302067756653,
+                "Positive": 0.02011229284107685
+            }
+        }
+    },
+    {
         "extractive_summary": "By. David Mccormack. and Associated Press Reporter. The federal government has launched a $1 million media campaign urging Central American parents not to send their children to the U.S. as illegal immigrants in a bid to combat the recent surge in unaccompanied children attempting to enter the country. The message aimed primarily at Honduras, Guatemala and El Salvador is two-part: The trip to the United States is extremely dangerous, and immigrants who make it here will not be allowed to stay.",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1316,6 +1906,16 @@
                 "Negative": 0.5521267056465149,
                 "Neutral": 0.402702659368515,
                 "Positive": 0.04517063498497009
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7555215358734131,
+                "Neutral": 0.22924724221229553,
+                "Positive": 0.015231168828904629
             }
         }
     },
@@ -1342,6 +1942,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8243237733840942,
+                "Neutral": 0.1697796881198883,
+                "Positive": 0.005896560847759247
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Nick Enoch and Tamara Cohen. Last updated at 12:40 AM on 23rd February 2012. The Second World War had been raging for more than two years, with rationing in force and mounting fears of a U-boat blockade. Faced with the prospect of food supplies being cut off, a pair of eminent scientists came up with a solution: Let them eat plankton. They planned to harvest tons of the microscopic creatures from Scottish lochs. Secret wartime letters",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1360,6 +1970,16 @@
                 "Negative": 0.27390721440315247,
                 "Neutral": 0.582482099533081,
                 "Positive": 0.14361067116260529
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.14116716384887695,
+                "Neutral": 0.7085574865341187,
+                "Positive": 0.15027527511119843
             }
         }
     },
@@ -1386,6 +2006,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6180081367492676,
+                "Neutral": 0.3598885238170624,
+                "Positive": 0.022103343158960342
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Louise Saunders. PUBLISHED:. 17:50 EST, 15 August 2012. |. UPDATED:. 03:37 EST, 16 August 2012. When The Only Way Is Essex's Tom Kilbey started dating Lydia Bright, it was clear he was never going to be best pals with her ex-boyfriend James 'Arg' Argent. But relations between the pair reached breaking point earlier tonight when Arg told Tom his sister Cara had claimed his relationship with the blonde",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1404,6 +2034,16 @@
                 "Negative": 0.5115271210670471,
                 "Neutral": 0.46227866411209106,
                 "Positive": 0.02619420550763607
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.045020539313554764,
+                "Neutral": 0.9235509634017944,
+                "Positive": 0.0314285047352314
             }
         }
     },
@@ -1430,6 +2070,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6878784894943237,
+                "Neutral": 0.2915938198566437,
+                "Positive": 0.020527716726064682
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- A security guard was arrested this week and is accused of stealing two Los Angeles Lakers championship rings and $20,000 in gift cards, police said. Eddie Monterroso, 23, who worked at a Lakers training facility, was arrested Tuesday outside the facility, the El Segundo Police Department said. The two championship rings were from the 2009 and 2010 seasons, police said. A search of the suspect's home on December 10 \"yielded evidence of the theft",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1448,6 +2098,16 @@
                 "Negative": 0.5715113878250122,
                 "Neutral": 0.35430189967155457,
                 "Positive": 0.07418669760227203
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.18060055375099182,
+                "Neutral": 0.7849778532981873,
+                "Positive": 0.03442160040140152
             }
         }
     },
@@ -1474,6 +2134,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7164218425750732,
+                "Neutral": 0.2519015967845917,
+                "Positive": 0.03167644515633583
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Tara Brady. This is the heartwarming moment a chivalrous frog helped to shield its partner from the rain by using a leaf as an umbrella. The kind gesture between the animals was caught on camera by amateur photographer Kutub Uddin, 27, and was taken in his back garden in Bognor Regis, West Sussex. The red-eyed tree frogs have been Mr Uddin's pets for four months and he often lets them out to roam around his garden",
         "extractive_sentiment": {
             "label": "Positive",
@@ -1492,6 +2162,16 @@
                 "Negative": 0.08867242932319641,
                 "Neutral": 0.8376479148864746,
                 "Positive": 0.07367973029613495
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.04321875423192978,
+                "Neutral": 0.8392456769943237,
+                "Positive": 0.1175355389714241
             }
         }
     },
@@ -1518,6 +2198,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5738744735717773,
+                "Neutral": 0.3788761496543884,
+                "Positive": 0.04724937304854393
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Cindy Tran for Daily Mail Australia. An enthusiastic amateur photographer said he has spent many restless nights and early hours of the mornings - all rugged up with a camera ready on a tripod to do what he loves most - capturing the perfect moments in Canberra ACT. John Hunt said the best times for taking great photographs is early in the morning when everyone is asleep to catch that perfect sunrise. The 57-year-old said his favourite place to shoot his camera is around Lake Burley Griffin",
         "extractive_sentiment": {
             "label": "Positive",
@@ -1536,6 +2226,16 @@
                 "Negative": 0.0013750321231782436,
                 "Neutral": 0.015604249201714993,
                 "Positive": 0.9830206632614136
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.012294704094529152,
+                "Neutral": 0.19964835047721863,
+                "Positive": 0.7880569696426392
             }
         }
     },
@@ -1562,6 +2262,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.05707043409347534,
+                "Neutral": 0.895293653011322,
+                "Positive": 0.04763587564229965
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Victoria Woollaston. Nowadays, gadgets and equipment are becoming increasingly complex and technical, but scientists have proved when it comes to microscopy - less is more. Foldscope is an origami-based print-and-fold optical microscope that can be assembled from a single sheet of paper. There are 30 versions, each built with varying filters and stage configurations designed to look for specific diseases, such as malaria. The Foldscope, pictured, was created by Stanford University and all",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1580,6 +2290,16 @@
                 "Negative": 0.008398483507335186,
                 "Neutral": 0.26488104462623596,
                 "Positive": 0.7267204523086548
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.02442769892513752,
+                "Neutral": 0.7268189191818237,
+                "Positive": 0.2487534135580063
             }
         }
     },
@@ -1606,6 +2326,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.148124560713768,
+                "Neutral": 0.7995155453681946,
+                "Positive": 0.05235990136861801
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Francesca Infante. PUBLISHED:. 10:38 EST, 14 August 2013. |. UPDATED:. 04:10 EST, 15 August 2013. Tributes have been paid to a schoolgirl who died suddenly on a family holiday after contracting a serious blood infection. Sarah Port, 13, is believed to have fallen ill during the trip and died a short time later from streptococcal septicaemia. Sarah, who was a year eight pupil",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1624,6 +2354,16 @@
                 "Negative": 0.12292037159204483,
                 "Neutral": 0.4238100051879883,
                 "Positive": 0.4532696008682251
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.2871779203414917,
+                "Neutral": 0.5352004170417786,
+                "Positive": 0.17762169241905212
             }
         }
     },
@@ -1650,6 +2390,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.08280253410339355,
+                "Neutral": 0.5895196199417114,
+                "Positive": 0.3276779055595398
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Chris Greenwood. PUBLISHED:. 12:24 EST, 19 March 2013. |. UPDATED:. 19:49 EST, 19 March 2013. One of Bryan Ferry's sons avoided jail yesterday after being caught carrying\u00a0 a knife for a second time. Merlin Ferry, 22, had told police to go away and 'investigate real crime' when he was found with the weapon. Officers stopped the student in his uninsured Saab and were searching for drugs when they",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1668,6 +2418,16 @@
                 "Negative": 0.43214666843414307,
                 "Neutral": 0.5136315822601318,
                 "Positive": 0.0542217381298542
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8638304471969604,
+                "Neutral": 0.12821941077709198,
+                "Positive": 0.007950244471430779
             }
         }
     },
@@ -1694,6 +2454,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.06298322230577469,
+                "Neutral": 0.5035898089408875,
+                "Positive": 0.43342694640159607
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Will Stewart and Leon Watson. PUBLISHED:. 07:07 EST, 26 March 2012. |. UPDATED:. 17:57 EST, 28 March 2012. A Moscow oligarch whose attempted killers were allegedly fingered by the banker shot in London has claimed Russian 'terrorism' has arrived on Britain's streets. Alexander Antonov spoke out in support of German Gorbuntsov, 45, now in a coma after being gunned down in a suspected contract killing attempt",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1712,6 +2482,16 @@
                 "Negative": 0.8003934025764465,
                 "Neutral": 0.19379480183124542,
                 "Positive": 0.005811787210404873
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8285409808158875,
+                "Neutral": 0.16508084535598755,
+                "Positive": 0.006378164514899254
             }
         }
     },
@@ -1738,6 +2518,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.5668022036552429,
+                "Neutral": 0.4065110683441162,
+                "Positive": 0.026686733588576317
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Charlie Scott. Follow @@charliefscott. Twenty-four hours after Luis Suarez hit the headlines for biting Giorgio Chiellini during Uruguay\u2019s 1-0 win over Italy, another Liverpool player was drawing attention to themselves for the wrong reasons. Mamadou Sakho, who has started each of France\u2019s three games at the World Cup so far, should have been dismissed in the eighth minute for elbowing Ecuador\u2019s Oswald",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1756,6 +2546,16 @@
                 "Negative": 0.6415877938270569,
                 "Neutral": 0.34885305166244507,
                 "Positive": 0.00955913309007883
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.3276715576648712,
+                "Neutral": 0.6432690620422363,
+                "Positive": 0.029059404507279396
             }
         }
     },
@@ -1782,6 +2582,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.15256784856319427,
+                "Neutral": 0.7815461754798889,
+                "Positive": 0.06588594615459442
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- The Philadelphia Eagles welcomed Michael Vick back into the National Football League on Friday after the quarterback spent almost two years in federal prison on a felony dogfighting conviction. Michael Vick speaks at a Philadelphia Eagles news conference on Friday. Vick, formerly with the Atlanta Falcons, has signed a two-year deal with the Eagles. \"I think everybody deserves a second chance,\" Vick said at a news conference in Philadelphia, Pennsylvania, on Friday. \"Now I want to be part of the",
         "extractive_sentiment": {
             "label": "Positive",
@@ -1800,6 +2610,16 @@
                 "Negative": 0.6025189161300659,
                 "Neutral": 0.3755972385406494,
                 "Positive": 0.021883850917220116
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.6208651065826416,
+                "Neutral": 0.35929974913597107,
+                "Positive": 0.01983519457280636
             }
         }
     },
@@ -1826,6 +2646,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.0022844786290079355,
+                "Neutral": 0.2970501780509949,
+                "Positive": 0.7006653547286987
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN Student News) -- September 24, 2014. With the U.S. at war with ISIS, today's show begins by focusing on this week's airstrikes in Syria and the groups that were targeted. The downing of a Syrian fighter jet in Israeli airspace underscores how Syria's civil war could affect neighboring countries. And California's wildfire season threatens to be the worst in recorded history. On this page you will find today's show Transcript and a place for you to request to be on",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1844,6 +2674,16 @@
                 "Negative": 0.565319836139679,
                 "Neutral": 0.4200797379016876,
                 "Positive": 0.014600396156311035
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.11385678499937057,
+                "Neutral": 0.7820798754692078,
+                "Positive": 0.10406335443258286
             }
         }
     },
@@ -1870,6 +2710,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.4482208490371704,
+                "Neutral": 0.4444216191768646,
+                "Positive": 0.10735750943422318
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- It's a club that has built its reputation on developing some of the world's best players, but leading European club Barcelona has been hit by a transfer ban imposed by FIFA after breaking the world governing body's rules relating to the \"international transfer of minors.\" Barca's youth players are drawn not just from Catalonia and Spain, but also from around the globe and trying to recruit the world's best is a competitive business -- Argentine Lionel Messi joined Barca at the age of",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1888,6 +2738,16 @@
                 "Negative": 0.0065334090031683445,
                 "Neutral": 0.5204044580459595,
                 "Positive": 0.4730621576309204
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7225955724716187,
+                "Neutral": 0.2637428045272827,
+                "Positive": 0.013661525212228298
             }
         }
     },
@@ -1914,6 +2774,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.17484469711780548,
+                "Neutral": 0.7354640364646912,
+                "Positive": 0.08969123661518097
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Emma Reynolds. PUBLISHED:. 09:24 EST, 30 November 2012. |. UPDATED:. 12:08 EST, 30 November 2012. The heartbroken parents of schoolgirl April Jones have released unseen pictures of the missing five-year-old to mark two months since she disappeared. April, five, was last seen playing near her parents' house in Machynlleth, West Wales, two months ago tomorrow, before she vanished without a trace",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -1932,6 +2802,16 @@
                 "Negative": 0.35004889965057373,
                 "Neutral": 0.4763862192630768,
                 "Positive": 0.1735648661851883
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.059199072420597076,
+                "Neutral": 0.5429540276527405,
+                "Positive": 0.39784690737724304
             }
         }
     },
@@ -1958,6 +2838,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.8438363075256348,
+                "Neutral": 0.14600567519664764,
+                "Positive": 0.010158025659620762
+            }
+        }
+    },
+    {
         "extractive_summary": "By. Sarah Dean. A leisurely trip to a tennis club turned to tragedy when an elderly woman was run over by her own car on Wednesday morning. The 79-year-old was reversing out of her local Aberdare Road club, in the NSW Hunter Region, at about 10.15am when the accident happened. Central Hunter duty officer Chief Inspector Lindsell said she was trying to perform a reversing U-turn in the club's driveway, the Maitland Mercury reports.",
         "extractive_sentiment": {
             "label": "Negative",
@@ -1976,6 +2866,16 @@
                 "Negative": 0.9160159826278687,
                 "Neutral": 0.07939063012599945,
                 "Positive": 0.004593414254486561
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7636289596557617,
+                "Neutral": 0.2194512039422989,
+                "Positive": 0.016919756308197975
             }
         }
     },
@@ -2002,6 +2902,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7057085633277893,
+                "Neutral": 0.2699466943740845,
+                "Positive": 0.024344738572835922
+            }
+        }
+    },
+    {
         "extractive_summary": "A hunter who received negative comments on Facebook after sharing photos of her next to a massive bear she killed has spoken out against her critics. The two photos that Eva Shockey shared on Friday and Saturday were from a North Carolina hunting trip taken alongside her television presenter father father Jim Shockey. They both appear on 'Jim Shockey's Uncharted.' One of Shockey's photo captions says the  bear she killed weighed 510.2lbs. Her photographs have since received thousands of comments and sparked",
         "extractive_sentiment": {
             "label": "Negative",
@@ -2020,6 +2930,16 @@
                 "Negative": 0.7398186922073364,
                 "Neutral": 0.2382449358701706,
                 "Positive": 0.021936414763331413
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.40309280157089233,
+                "Neutral": 0.5326085686683655,
+                "Positive": 0.06429863721132278
             }
         }
     },
@@ -2046,6 +2966,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.10351818054914474,
+                "Neutral": 0.8248634338378906,
+                "Positive": 0.07161840051412582
+            }
+        }
+    },
+    {
         "extractive_summary": "An owl in Minnesota is lucky not to have become a permanent hood ornament when it got lodged in the grille of a passing car. Around 3:30am last Thursday, an owl was hunting along\u00a0Highway 169 in Plymouth when it swooped down to catch its prey. Stuck: Kenneth Love was surprised when a swooping owl struck his car in the early morning and became lodged in the grille. At that exact moment, Kenneth Love was passing through the area and their f",
         "extractive_sentiment": {
             "label": "Neutral",
@@ -2064,6 +2994,16 @@
                 "Negative": 0.0021708125714212656,
                 "Neutral": 0.2823256254196167,
                 "Positive": 0.7155035734176636
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.24621346592903137,
+                "Neutral": 0.6254703998565674,
+                "Positive": 0.12831613421440125
             }
         }
     },
@@ -2090,6 +3030,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.14580051600933075,
+                "Neutral": 0.7873820662498474,
+                "Positive": 0.06681739538908005
+            }
+        }
+    },
+    {
         "extractive_summary": "Beijing, China (CNN) -- The Chinese public, especially those in the social networking community, are abuzz over the case of a man charged with killing a girl in a hit-and-run: He is the son of a local deputy police chief. Li Qiming, 23, is accused of \"perpetration of traffic accident,\" a charge punishable by three to seven years in prison. During the two-and-a-half hour trial Wednesday in the northern city",
         "extractive_sentiment": {
             "label": "Negative",
@@ -2108,6 +3058,16 @@
                 "Negative": 0.6350571513175964,
                 "Neutral": 0.35783371329307556,
                 "Positive": 0.007109162863343954
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Negative",
+            "scores": {
+                "Negative": 0.7842185497283936,
+                "Neutral": 0.20459327101707458,
+                "Positive": 0.01118815504014492
             }
         }
     },
@@ -2134,6 +3094,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.01110744010657072,
+                "Neutral": 0.748022198677063,
+                "Positive": 0.2408704310655594
+            }
+        }
+    },
+    {
         "extractive_summary": "Philip Levine, a Pulitzer Prize-winning poet whose intimate portraits of blue-collar life were grounded in personal experience and political conscience - died at his Fresno, California home on Saturday, at age 87. Former US poet laureate from 2011 to 2012, Levine passed away from pancreatic and liver cancer, his wife said Sunday. He was among the country's most decorated poets, winning the Pulitzer in 1995 for The Simple Truth and the National Book Awards for the 1979 collection Ashes and for What Work",
         "extractive_sentiment": {
             "label": "Positive",
@@ -2152,6 +3122,16 @@
                 "Negative": 0.011684558354318142,
                 "Neutral": 0.7036124467849731,
                 "Positive": 0.2847030460834503
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Positive",
+            "scores": {
+                "Negative": 0.02763625979423523,
+                "Neutral": 0.36760276556015015,
+                "Positive": 0.6047609448432922
             }
         }
     },
@@ -2178,6 +3158,16 @@
         }
     },
     {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.14296086132526398,
+                "Neutral": 0.7320544719696045,
+                "Positive": 0.12498470395803452
+            }
+        }
+    },
+    {
         "extractive_summary": "(CNN) -- A 48-year-old Utah man was arrested after police said his attempt to abduct a little girl was foiled by the child's stepfather. Troy Mitchell Morley is suspected of two felonies -- child kidnapping and burglary, the Sandy, Utah, police department said in a written statement. \"The motive for the abduction and intentions of the suspect towards the child are not known,\" police said in the suburban Salt Lake City community. A spokesman for the family told CNN",
         "extractive_sentiment": {
             "label": "Negative",
@@ -2196,6 +3186,16 @@
                 "Negative": 0.605430006980896,
                 "Neutral": 0.3827774226665497,
                 "Positive": 0.011792616918683052
+            }
+        }
+    },
+    {
+        "human_summary": {
+            "label": "Neutral",
+            "scores": {
+                "Negative": 0.2348656803369522,
+                "Neutral": 0.6677931547164917,
+                "Positive": 0.09734112024307251
             }
         }
     }

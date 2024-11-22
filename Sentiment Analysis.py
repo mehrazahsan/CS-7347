@@ -37,9 +37,10 @@ def analyze_sentiment(summary):
     }
 
 results = []
-for article in total_summaries.iterrows():
+for article in total_summaries.itertuples():
     extractive_summary = total_summaries.at[article[0],'extractive_summary']
     abstractive_summary = total_summaries.at[article[0],'abstractive_summary']
+    human_summary = total_summaries.at[article[0],'human_summary']
     if extractive_summary:
         result = analyze_sentiment(extractive_summary)
         results.append({
@@ -52,6 +53,13 @@ for article in total_summaries.iterrows():
         results.append({
             "abstractive_summary": abstractive_summary,
             "abstractive_sentiment": result
+        })
+
+    if human_summary:
+        result = analyze_sentiment(human_summary)
+        results.append({
+            "human_summary": human_summary,
+            "human_summary": result
         })
 
 # Save results to a new JSON file
